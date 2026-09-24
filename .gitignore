@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Generated files
+reports/
+uploads/
+*.docx
+
+# Local database
+activities.db
+
+# Secrets
+.env
+.streamlit/secrets.toml
